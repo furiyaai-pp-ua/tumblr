@@ -1,2 +1,2 @@
 # tumblr
-Tumblr - https://www.tumblr.com/furiyaai
+https://www.tumblr.com/furiyaai
